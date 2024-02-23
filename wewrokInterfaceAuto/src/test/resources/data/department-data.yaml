@@ -1,0 +1,6 @@
+---
+- name: "技术部"
+  name_en: "JISHU1"
+  parentid: 1
+  order: 1
+  id: 2
